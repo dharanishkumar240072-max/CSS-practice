@@ -1,0 +1,54 @@
+.main{
+    background-color: white;
+    text-align: center;
+    border:2px solid;
+    margin :40px 400px;
+    padding:20px;
+    border-radius:50px;
+    
+}
+.input{
+    text-align: center;
+}
+.input button{
+    display:block;
+    width:350px;
+    padding:20px;
+    margin: 20px auto;
+    border-radius:20px;
+    color:white;
+    background-color:red;
+    font-size:medium
+
+}
+.input input{
+    display:block;
+    padding: 10px;
+    margin: 0px auto 10px;
+    border-radius:10px;
+    width:350px;
+    font-size:15px;
+}
+body{
+    background:linear-gradient(to right,black 50%,red)
+}
+.btn button{
+    width:350px;
+    display:block;
+    margin: 10px auto 10px;
+    padding:13px;
+    border-radius:20px;
+    font-size: medium;
+    background-color: whitesmoke;
+
+
+}
+.last{
+    margin-bottom:10px;
+}
+h2{
+    text-align: left;
+}
+.para{
+    text-align: left;
+}
